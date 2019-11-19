@@ -1,0 +1,145 @@
+.tnav{
+    background-color: #FF7F00 !important;
+    color: white;
+}
+
+@media screen and (max-width: 600px) {
+    .tnav1{
+        text-align: center;
+    }
+  }
+
+.tnav2{
+    background-color: #FF7F00 !important;
+}
+
+.tnav2:hover{
+    color: black !important;
+    background-color: white !important;
+}
+
+.tnav3{
+    background-color: #28A745 !important;
+}
+
+.tnav3:hover{
+    color: black !important;
+    background-color: white !important;
+}
+
+.wrp1{
+    background-color: #343A40 !important;
+    
+}
+
+.wrp1:hover{
+    color: white !important;
+    background-color: #FF7F00 !important;
+}
+
+.wrp2{
+    background-color: #FF7F00 !important;
+    color: black;
+}
+.wrp2:hover{
+    color: white !important;
+    background-color: #343A40 !important;
+}
+
+.bd{
+    /* border-bottom: 5px solid #FF7F00; */
+    height: 5px;
+    width: 7vw;
+    margin: auto;
+    color: #FF7F00;
+    background-color: #FF7F00;
+}
+
+.ts{
+    letter-spacing: 3px;
+  }
+
+  .tsc{
+    color: #FF7F00;
+  }
+
+  .bt1{
+      margin-top: -35px;
+      margin-left: 13vh;
+      text-align: center;
+  }
+
+  .cdf{
+      background-color: #FF7F00;
+      /* color: white; */
+  }
+
+  .cdf2{
+    background-color: #28A745;
+    /* color: white; */
+}
+
+  .table{
+    margin: -20px;
+  }
+
+.wrp3{
+    background-color: #28A745 !important;
+}
+
+.wrp3:hover{
+    color: white !important;
+    background-color: #343A40 !important;
+}
+
+.why{
+    border-color: #FF7F00;
+    border-width: 3px;
+    border-radius: 20px;
+    box-shadow: 5px 5px;
+}
+
+.why:hover{
+    border-color: #343A40;
+    border-radius: 20px;
+}
+
+.faq{
+    background-image: url(../image/faq.jpg);
+    height: 830px;
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+}
+
+.tnav4{
+    background-color: #FF7F00 !important;
+}
+
+.tnav4:hover{
+    color: white !important;
+    background-color: #343A40 !important;
+}
+
+.faq1{
+    color: #28A745;
+}
+
+.mile{
+    background-color: #343A40 !important;
+}
+
+.tnav5{
+    background-color: #FF7F00 !important;
+}
+
+.tnav5:hover{
+    color: white !important;
+    background-color: #28A745 !important;
+}
+
+
+
+.border-top{
+    color: white 
+}
